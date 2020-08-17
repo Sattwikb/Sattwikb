@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sattwikraj.unstacksite.com/](https://sattwikraj.unstacksite.com/)
+- 👨‍💻 All of my projects are available at [https://sattwikraj.unstacksite.com](https://sattwikraj.unstacksite.com/)
 
 - 📝 I sometimes write articles on [https://medium.com/@sattwikraj](https://medium.com/@sattwikraj)
 
